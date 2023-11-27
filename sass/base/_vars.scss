@@ -1,0 +1,42 @@
+
+$primary-color: #696871;
+$secondary-color: #6c757d;
+$success-color: #28a745;
+$danger-color: #dc3545;
+$warning-color: #ffc107;
+$info-color: #17a2b8;
+$title-color: #19191B;
+
+ 
+
+$background-color: #FF7143;
+$background-color-silver: #F8F8F8;
+$background-secondary: #5454D4;
+$background-light: #F7F7FB;
+$background-dark: #343a40;
+
+
+$text-color: #333;
+$text-light: #888;
+$text-dark: #000;
+
+
+$button-primary-bg: $primary-color;
+$button-primary-text: #fff;
+$button-success-bg: $success-color;
+$button-success-text: #fff;
+$button-danger-bg: $danger-color;
+$button-danger-text: #fff;
+$button-warning-bg: $warning-color;
+$button-warning-text: #000;
+
+
+$border-color: #ddd;
+$border-radius: 3px;
+$border-width: 1px;
+
+
+%text-font {
+    font-family: 'Montserrat', sans-serif;
+}
+
